@@ -1,0 +1,17 @@
+G:\Marcio Junior\Desktop\Trabalhos faculdade\C#\Cadastro_Alunos\Cadastro_Alunos\bin\Debug\net8.0-windows\Cadastro_Alunos.exe
+G:\Marcio Junior\Desktop\Trabalhos faculdade\C#\Cadastro_Alunos\Cadastro_Alunos\bin\Debug\net8.0-windows\Cadastro_Alunos.deps.json
+G:\Marcio Junior\Desktop\Trabalhos faculdade\C#\Cadastro_Alunos\Cadastro_Alunos\bin\Debug\net8.0-windows\Cadastro_Alunos.runtimeconfig.json
+G:\Marcio Junior\Desktop\Trabalhos faculdade\C#\Cadastro_Alunos\Cadastro_Alunos\bin\Debug\net8.0-windows\Cadastro_Alunos.dll
+G:\Marcio Junior\Desktop\Trabalhos faculdade\C#\Cadastro_Alunos\Cadastro_Alunos\bin\Debug\net8.0-windows\Cadastro_Alunos.pdb
+G:\Marcio Junior\Desktop\Trabalhos faculdade\C#\Cadastro_Alunos\Cadastro_Alunos\obj\Debug\net8.0-windows\Cadastro_Alunos.Form1.resources
+G:\Marcio Junior\Desktop\Trabalhos faculdade\C#\Cadastro_Alunos\Cadastro_Alunos\obj\Debug\net8.0-windows\Cadastro_Alunos.Form2.resources
+G:\Marcio Junior\Desktop\Trabalhos faculdade\C#\Cadastro_Alunos\Cadastro_Alunos\obj\Debug\net8.0-windows\Cadastro_Alunos.csproj.GenerateResource.cache
+G:\Marcio Junior\Desktop\Trabalhos faculdade\C#\Cadastro_Alunos\Cadastro_Alunos\obj\Debug\net8.0-windows\Cadastro_Alunos.GeneratedMSBuildEditorConfig.editorconfig
+G:\Marcio Junior\Desktop\Trabalhos faculdade\C#\Cadastro_Alunos\Cadastro_Alunos\obj\Debug\net8.0-windows\Cadastro_Alunos.AssemblyInfoInputs.cache
+G:\Marcio Junior\Desktop\Trabalhos faculdade\C#\Cadastro_Alunos\Cadastro_Alunos\obj\Debug\net8.0-windows\Cadastro_Alunos.AssemblyInfo.cs
+G:\Marcio Junior\Desktop\Trabalhos faculdade\C#\Cadastro_Alunos\Cadastro_Alunos\obj\Debug\net8.0-windows\Cadastro_Alunos.csproj.CoreCompileInputs.cache
+G:\Marcio Junior\Desktop\Trabalhos faculdade\C#\Cadastro_Alunos\Cadastro_Alunos\obj\Debug\net8.0-windows\Cadastro_Alunos.dll
+G:\Marcio Junior\Desktop\Trabalhos faculdade\C#\Cadastro_Alunos\Cadastro_Alunos\obj\Debug\net8.0-windows\refint\Cadastro_Alunos.dll
+G:\Marcio Junior\Desktop\Trabalhos faculdade\C#\Cadastro_Alunos\Cadastro_Alunos\obj\Debug\net8.0-windows\Cadastro_Alunos.pdb
+G:\Marcio Junior\Desktop\Trabalhos faculdade\C#\Cadastro_Alunos\Cadastro_Alunos\obj\Debug\net8.0-windows\Cadastro_Alunos.genruntimeconfig.cache
+G:\Marcio Junior\Desktop\Trabalhos faculdade\C#\Cadastro_Alunos\Cadastro_Alunos\obj\Debug\net8.0-windows\ref\Cadastro_Alunos.dll
